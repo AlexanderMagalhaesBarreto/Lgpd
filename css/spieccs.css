@@ -1,0 +1,36 @@
+	body {
+       font-family: 'Open Sans', sans-serif;
+	}
+
+	.navbar-reprograma {
+		background-color: #FFBCB7;
+	}
+
+	#navbar-brand-spie {
+		height: 34px;
+		margin-top: -6px;
+		
+	}
+
+	.spie-home {
+		border: 6px solid #eee;
+		width: 100%;
+		
+	}
+
+	.navbar-reprograma2 {
+		background-color: #ffffff;
+	}
+
+		#navbar-brand2-spie {
+		height: 300px;
+		margin-top: -6px;
+		
+	}
+
+		#navbar-brand3-spie {
+		height: 500px;
+		width: 500px;
+		margin-top: -6px;
+		
+	}	
